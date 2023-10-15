@@ -13,7 +13,7 @@ int main() {
 	cin >> inputNumber;
 	cout << "Entered: " << inputNumber << endl;
 	cout << "The Square of the " << inputNumber << " = " << inputNumber * inputNumber << endl;
-	cout << "The Cube of the " << inputNumber << " = " << inputNumber * inputNumber * inputNumber << endl; 
+	cout << "The Cube of the " << inputNumber << " = " << inputNumber * inputNumber * inputNumber << endl;
 
 	return 0;
 }
